@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EwanP56&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
-  <strong>Hello, I'm Ewan,</strong> altenant web developer from <img width="32" height="32" src="https://img.icons8.com/color/48/france.png" alt="france"/> <b>Lorient, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
+  <strong>Hello, I'm Ewan,</strong> altenant web developer from <img width="28" height="28" src="https://img.icons8.com/color/48/france.png" alt="france"/> <b>Lorient, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
 </p>
 <h3>Various techs I use</h3>
 <p>
