@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/EwanP56/EwanP56/blob/main/img/cover.png" alt="Ewan PENVEN" height="200" style="margin-right: 20px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=EwanP56&show_icons=true&theme=graywhite" alt="Github Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=EwanP56&show_icons=true&theme=graywhite" alt="Github Stats" /> -->
 </p>
 <p>
   <strong>Hello, I'm Ewan,</strong> altenant web developer from <img width="24" height="24" src="https://img.icons8.com/color/48/france.png" alt="france"/> <b>Lorient, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
@@ -21,7 +21,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<!-- <h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -41,9 +41,9 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EwanP56/peek?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
   <h3>Where to find me</h3>
-<p><a href="https://github.com/NicolasBrondin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/EwanP56" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 <h3>Acknowledgments</h3>
 <p>This profile readme is greatly inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>'s one !</p>
