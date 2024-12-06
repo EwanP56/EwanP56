@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/user-attachments/assets/07fc1409-b43e-4875-a955-ce47de0c639f)<!--
 **EwanP56/EwanP56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=EwanP56&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
-  <strong>Hello, I'm Ewan,</strong> altenant web developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
+  <strong>Hello, I'm Ewan,</strong> altenant web developer from <img width="48" height="48" src="https://img.icons8.com/color/48/france.png" alt="france"/> <b>Lorient, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
 </p>
 <h3>Various techs I use</h3>
 <p>
